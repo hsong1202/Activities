@@ -51,21 +51,23 @@ for i in range(xlen):
 
 y = []
 
-# for i in range(xlen):
+for i in range(xlen):
 
-#     # print(f"value of {i} ")
-#     random_entry = ra.randint(1,10)
-#     random_entry = dict()
+    # print(f"value of {i} ")
+    random_entry = ra.randint(1,10)
 
-#     for index, col in enumerate(x):
-#         key = col
-#         value = i[index]
-#         random_entry[key] =value
-#         y.append(random_entry)
-# print(y)
+    random_entry = dict()
 
+    for index, col in enumerate(x):
 
-# rgenerator = []
+        key = col
+
+        value = i[index]
+
+        random_entry[key] =value
+
+        y.append(random_entry)
+print(y)
 
 
 
