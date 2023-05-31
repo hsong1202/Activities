@@ -1,0 +1,180 @@
+VIN,County,City,State,Postal Code,Model Year,Make,Model,Electric Vehicle Type,Electric Range,Base MSRP,StateID
+3FA6P0PU2G,Fairbanks North Star,Fairbanks,AK,99701,2016,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,105
+5YJ3E1EA7K,San Diego,San Diego,CA,92101,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,120
+5YJ3E1EB5J,Santa Clara,Cupertino,CA,95014,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,120
+5YJ3E1EA9M,Ventura,Ventura,CA,93001,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,120
+2T3YL4DV4D,San Diego,San Diego,CA,92154,2013,TOYOTA,RAV4,Battery Electric Vehicle (BEV),103,41590,120
+JTDKN3DPXC,Los Angeles,Lakewood,CA,90713,2012,TOYOTA,PRIUS PLUG-IN,Plug-in Hybrid Electric Vehicle (PHEV),6,27450,120
+2C4RC1N74L,Ventura,Camarillo,CA,93010,2020,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),220,44995,120
+5YJ3E1EB0N,Riverside,Menifee,CA,92585,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,120
+5YJYGDEDXM,San Diego,Chula Vista,CA,91913,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,120
+5YJ3E1ECXN,Ventura,Ventura,CA,93001,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,120
+1FADP5CU6F,District of Columbia,Washington,DC,20002,2015,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),47,24995,140
+WBA8E1C59H,District of Columbia,Washington,DC,20024,2017,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),22,45500,140
+5YJ3E1EB2L,District of Columbia,Washington,DC,20009,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,140
+7SAYGDEF4N,District of Columbia,Washington,DC,20003,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,140
+5YJYGDEE2L,District of Columbia,Washington,DC,20007,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,140
+1N4AZ1CP1J,District of Columbia,Washington,DC,20002,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,28000,140
+7SAYGDEF9N,Kent,Dover,DE,19901,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,135
+5YJ3E1EB8J,Honolulu,Mililani,HI,96789,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,155
+1C4JJXR65N,Kauai,Kekaha,HI,96752,2022,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),22,54375,155
+1C4JJXP69M,Honolulu,Ewa Beach,HI,96706,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,54375,155
+5YJSA1E26K,Honolulu,Honolulu,HI,96818,2019,TESLA,MODEL S,Battery Electric Vehicle (BEV),250,75000,155
+5YJ3E1EA1K,Hennepin,Minneapolis,MN,55408,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,275
+KNDCE3LG9M,Sarpy,Bellevue,NE,68123,2021,KIA,NIRO,Battery Electric Vehicle (BEV),220,26590,205
+WBY1Z4C5XG,Jackson,Altus,OK,73521,2016,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,44450,250
+5YJ3E1EB2L,Laramie,Cheyenne,WY,82001,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,350
+WB523CF01N,Sheridan,Sheridan,WY,82801,2022,BMW,IX,Battery Electric Vehicle (BEV),231,85000,350
+JTMFB3FVXM,New London,Waterford,CT,6385,2021,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,130
+3FA6P0SU5E,New Haven,Madison,CT,6443,2014,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,130
+2C4RC1N73J,New Haven,Madison,CT,6443,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,44995,130
+1G1RB6E47F,New London,Old Lyme,CT,6371,2015,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,130
+7SAYGAEE5N,New London,Groton,CT,6340,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,130
+1G1RD6E4XE,New London,Pawcatuck,CT,6379,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,130
+3FA6P0PU2D,Richmond,Augusta,GA,30905,2013,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,150
+5YJ3E1EA1J,Houston,Warner Robins,GA,31088,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,150
+WVGTMPE2XM,Rockdale,Conyers,GA,30013,2021,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),223,41190,150
+WBY1Z8C38H,Bartow,Adairsville,GA,30103,2017,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),97,44450,150
+KNDRJDLH5N,Bryan,Richmond Hill,GA,31324,2022,KIA,SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),32,36690,150
+YV4BR0CZ5N,Columbia,Evans,GA,30809,2022,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),18,71900,150
+1N4AZ0CP0F,DeKalb,Decatur,GA,30030,2015,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,28000,150
+7FCTGAAL7N,Kootenai,Worley,ID,83876,2022,RIVIAN,R1T,Battery Electric Vehicle (BEV),314,74800,160
+5YJ3E1EA3N,Elmore,Mountain Home Afb,ID,83648,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,160
+WVGTMPE28M,Salt Lake,Salt Lake City,UT,84129,2021,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),223,41190,320
+5YJ3E1EB1J,Salt Lake,West Valley City,UT,84128,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,320
+KNDCD3LD1K,Salt Lake,Salt Lake City,UT,84121,2019,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),220,26590,320
+JTDKN3DP5F,Salt Lake,Salt Lake City,UT,84115,2015,TOYOTA,PRIUS PLUG-IN,Plug-in Hybrid Electric Vehicle (PHEV),6,27450,320
+5YJ3E1EB9M,Anne Arundel,Annapolis,MD,21401,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,260
+5YJ3E1EA8J,St. Mary's,Lexington Park,MD,20653,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,260
+5YJ3E1EBXM,Washington,Keedysville,MD,21756,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,260
+5YJSA1E2XG,Prince George's,Upper Marlboro,MD,20774,2016,TESLA,MODEL S,Battery Electric Vehicle (BEV),250,75000,260
+5YJ3E1EBXK,Frederick,Frederick,MD,21704,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,260
+3FA6P0SU4F,Carroll,Westminster,MD,21157,2015,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,260
+W1N0G5DB8L,Montgomery,Germantown,MD,20876,2020,MERCEDES-BENZ,GLC-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),220,35500,260
+5UXTA6C04N,Anne Arundel,Odenton,MD,21113,2022,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),30,63900,260
+JHMZC5F39J,Anne Arundel,Gambrills,MD,21054,2018,HONDA,CLARITY,Plug-in Hybrid Electric Vehicle (PHEV),47,33500,260
+5YJYGDEE9M,Harrison,Biloxi,MS,39531,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,280
+1N4AZ1BV4N,Hamilton,Cincinnati,OH,45243,2022,NISSAN,LEAF,Battery Electric Vehicle (BEV),149,28000,245
+1FTVW1EL3N,Hamilton,Cincinnati,OH,45243,2022,FORD,F-150,Battery Electric Vehicle (BEV),230,55974,245
+5YJ3E1EB9N,Beaufort,Okatie,SC,29909,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,300
+JTDKARFP4H,Sumter,Sumter,SC,29153,2017,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,27450,300
+5YJ3E1EB9M,Dorchester,Summerville,SC,29483,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,300
+5YJYGAEE2M,Charleston,Charleston Afb,SC,29404,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,300
+3FMTK3RM7M,Sumter,Sumter,SC,29154,2021,FORD,MUSTANG MACH-E,Battery Electric Vehicle (BEV),224,49995,300
+3FA6P0SU9E,Hidalgo,Mcallen,TX,78501,2014,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,315
+3FA6P0SU0K,Galveston,Dickinson,TX,77539,2019,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,315
+5YJXCAE21H,El Paso,El Paso,TX,79911,2017,TESLA,MODEL X,Battery Electric Vehicle (BEV),237,87500,315
+7SAYGDEE7N,Bexar,San Antonio,TX,78258,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,315
+JTDKARFP1H,Bexar,San Antonio,TX,78258,2017,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,27450,315
+5YJ3E1EB8M,Denton,Little Elm,TX,75068,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,315
+5YJ3E1EB3L,Bexar,San Antonio,TX,78258,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,315
+3FA6P0PUXG,Bell,Harker Heights,TX,76548,2016,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,315
+5YJ3E1EA7J,Wichita,Wichita Falls,TX,76310,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,315
+1N4AZ0CP3D,Maricopa,Phoenix,AZ,85086,2013,NISSAN,LEAF,Battery Electric Vehicle (BEV),75,28000,110
+5YJSA1S21F,Maricopa,Phoenix,AZ,85086,2015,TESLA,MODEL S,Battery Electric Vehicle (BEV),250,75000,110
+5YJXCBE44M,Maricopa,Chandler,AZ,85248,2021,TESLA,MODEL X,Battery Electric Vehicle (BEV),348,104000,110
+5YJYGAEE5M,Pinal,Maricopa,AZ,85138,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,110
+7JRH60FZ8N,Maricopa,Goodyear,AZ,85395,2022,VOLVO,S60,Plug-in Hybrid Electric Vehicle (PHEV),41,51000,110
+JTDKAMFP0M,Maricopa,Tempe,AZ,85281,2021,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),25,27450,110
+2C4RC1N75K,Rock Island,Rock Island,IL,61201,2019,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),220,44995,165
+5YJYGAEE7M,Cook,Skokie,IL,60077,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,165
+5YJ3E1EB1L,St. Clair,Belleville,IL,62220,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,165
+3C3CFFGE3G,St. Clair,Mascoutah,IL,62258,2016,FIAT,500,Battery Electric Vehicle (BEV),84,32000,165
+5YJ3E1EB3J,Lake,Highland Park,IL,60035,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,165
+5YJYGDEE2L,Lake,Gurnee,IL,60031,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,165
+2C4RC1N79J,Penobscot,Bangor,ME,4401,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,44995,195
+1G1FW6S09J,Chaves,Roswell,NM,88201,2018,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,225
+JTMEB3FV4N,Montgomery,Montgomery,AL,36106,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,100
+5YJ3E1EB9L,Pulaski,Little Rock,AR,72207,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,115
+1N4BZ1CPXK,Pulaski,Little Rock,AR,72207,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),149,28000,115
+5UXKT0C39H,Sevier,De Queen,AR,71832,2017,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),14,63900,115
+7SAYGDEF1N,Pulaski,Little Rock,AR,72205,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,115
+5YJ3E1EA6K,Lake,Tavares,FL,32778,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,145
+5YJSA1E2XH,Palm Beach,West Palm Beach,FL,33415,2017,TESLA,MODEL S,Battery Electric Vehicle (BEV),250,75000,145
+5YJ3E1EA4K,Sarasota,Sarasota,FL,34242,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,145
+JTMEB3FV6N,Monroe,Key West,FL,33040,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,145
+JTMEB3FV3N,Hillsborough,Lithia,FL,33547,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,145
+3FA6P0PU2F,Okaloosa,Valparaiso,FL,32580,2015,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,145
+5UXKT0C36H,Leavenworth,Lansing,KS,66043,2017,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),14,63900,180
+5YJYGAEE0M,Leavenworth,Fort Leavenworth,KS,66027,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,180
+5YJ3E1EB0M,Geary,Junction City,KS,66441,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,180
+1G1RA6S5XJ,Cumberland,Fort Bragg,NC,28307,2018,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),53,34395,235
+5UXKT0C36H,Cumberland,Fayetteville,NC,28305,2017,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),14,63900,235
+5YJYGDEE4M,Cumberland,Fayetteville,NC,28312,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,235
+KNDCM3LD8L,Onslow,Mccutcheon Field,NC,28545,2020,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),220,26590,235
+2C4RC1H71J,Moore,Southern Pines,NC,28387,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,44995,235
+5YJ3E1EA1M,Wayne,Goldsboro,NC,27534,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,235
+7SAYGAEE8N,Hoke,Raeford,NC,28376,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,235
+JA4J24A50J,Williams,Williston,ND,58802,2018,MITSUBISHI,OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),22,39845,240
+2C4RC1S72M,Douglas,Omaha,NE,68130,2021,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,44995,205
+WA1VABGE7M,Douglas,Omaha,NE,68102,2021,AUDI,E-TRON,Battery Electric Vehicle (BEV),222,65000,205
+2C4RC1N72J,Douglas,Omaha,NE,68135,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,44995,205
+5YJ3E1EB5L,Douglas,Omaha,NE,68110,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,205
+1FADP5CU3F,Jefferson,Felts Mills,NY,13638,2015,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),47,24995,230
+1N4BZ0CP1H,Nassau,Jericho,NY,11753,2017,NISSAN,LEAF,Battery Electric Vehicle (BEV),107,28000,230
+5YJ3E1EB4M,Queens,Jamaica,NY,11436,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,230
+5YJXCAE28G,Saratoga,Greenfield Center,NY,12833,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),237,90000,230
+WBA7J2C52J,Multnomah,Portland,OR,97214,2018,BMW,740E,Plug-in Hybrid Electric Vehicle (PHEV),14,90700,255
+1C4JJXP64M,Lincoln,Lincoln City,OR,97367,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,54375,255
+1N4AZ1CP4K,Clackamas,West Linn,OR,97068,2019,NISSAN,LEAF,Battery Electric Vehicle (BEV),220,28000,255
+JTMAB3FV4N,Polk,Salem,OR,97304,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,255
+1G1FW6S01H,Douglas,Elkton,OR,97436,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,255
+5YJYGDEE6M,Pennington,Rapid City,SD,57701,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,305
+5YJYGAEE4M,Douglas,South Range,WI,54874,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,345
+1G1RB6S54J,Middlesex,Bedford,MA,1730,2018,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),53,34395,265
+7SAYGDEE4N,Middlesex,Chelmsford,MA,1824,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,265
+5YJ3E1EC1N,Middlesex,Hanscom Afb,MA,1731,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,265
+1G1RB6E46F,Carroll,North Conway,NH,3860,2015,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,215
+5YJ3E1EC4L,Rockingham,Portsmouth,NH,3804,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,215
+1N4AZ1CP4J,Montgomery,Norristown,PA,19403,2018,NISSAN,LEAF,Battery Electric Vehicle (BEV),151,28000,290
+5YJ3E1EB1N,Cumberland,Mechanicsburg,PA,17050,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,290
+5YJXCBE22G,Allegheny,Wexford,PA,15090,2016,TESLA,MODEL X,Battery Electric Vehicle (BEV),237,90000,290
+5YJYGAEE1M,Montgomery,Fort Campbell,TN,42223,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,310
+5YJ3E1EC1L,Tipton,Atoka,TN,38004,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,310
+5YJ3E1EA3M,Montgomery,Clarksville,TN,37042,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,310
+1G1FY6S05N,Alexandria,Alexandria,VA,22304,2022,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,330
+3FA6P0PU8E,Portsmouth,Portsmouth,VA,23707,2014,FORD,FUSION,Plug-in Hybrid Electric Vehicle (PHEV),222,28000,330
+5YJ3E1EA8M,Norfolk,Norfolk,VA,23503,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,330
+JTMFB3FV3N,Fairfax,Vienna,VA,22180,2022,TOYOTA,RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),42,41590,330
+1G1RD6E46D,Norfolk,Norfolk,VA,23503,2013,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,330
+1G1FZ6S03L,Chesapeake,Chesapeake,VA,23321,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,330
+5UXKT0C53G,Stafford,Stafford,VA,22554,2016,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),14,63900,330
+JN1AZ0CP1B,Fairfax,Alexandria,VA,22307,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),73,28000,330
+WVGJNPE2XM,Alexandria,Alexandria,VA,22304,2021,VOLKSWAGEN,ID.4,Battery Electric Vehicle (BEV),223,41190,330
+2C4RC1H78J,Oldham,Goshen,KY,40026,2018,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),33,44995,185
+WBY1Z4C53F,Plaquemines,Belle Chasse,LA,70037,2015,BMW,I3,Plug-in Hybrid Electric Vehicle (PHEV),72,44450,190
+7SAYGAEEXN,Plaquemines,Belle Chasse,LA,70037,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,190
+KNDCC3LGXN,St. Tammany,Slidell,LA,70461,2022,KIA,NIRO,Battery Electric Vehicle (BEV),253,26590,190
+5YJ3E1EB8K,Clark,North Las Vegas,NV,89084,2019,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,210
+1FADP5CU7E,Clark,Las Vegas,NV,89118,2014,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),47,24995,210
+5YJ3E1EB1M,Clark,Las Vegas,NV,89146,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,210
+5YJYGDEE7M,Clark,Las Vegas,NV,89115,2021,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,210
+1G1RA6E46E,Clark,Las Vegas,NV,89166,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,210
+1G1RD6E45D,Clark,Laughlin,NV,89029,2013,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),38,34395,210
+5YJYGDEE6L,Clark,Las Vegas,NV,89138,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,210
+5YJ3E1EB1M,Clark,Las Vegas,NV,89147,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,210
+1N4AZ0CP6E,Newport,Middletown,RI,2842,2014,NISSAN,LEAF,Battery Electric Vehicle (BEV),84,28000,295
+1C4JJXP61M,Burlington,Medford,NJ,8055,2021,JEEP,WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),25,54375,220
+JTDKARFP3L,Burlington,Joint Base Mdl,NJ,8641,2020,TOYOTA,PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),220,27450,220
+KMHC65LD3K,Camden,Haddonfield,NJ,8033,2019,HYUNDAI,IONIQ,Plug-in Hybrid Electric Vehicle (PHEV),220,35500,220
+5YJ3E1EB8J,Larimer,Timnath,CO,80547,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,125
+1G1FY6S08M,Las Animas,Trinidad,CO,81082,2021,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,125
+KL8CL6S01E,El Paso,Colorado Springs,CO,80923,2014,CHEVROLET,SPARK,Battery Electric Vehicle (BEV),82,14900,125
+7SAYGDEF5N,El Paso,Colorado Springs,CO,80925,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,125
+7SAYGDEF2N,Adams,Aurora,CO,80019,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,125
+2C4RC1S72M,El Paso,Colorado Springs,CO,80919,2021,CHRYSLER,PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),32,44995,125
+5YJSA1E23L,El Paso,Colorado Springs,CO,80925,2020,TESLA,MODEL S,Battery Electric Vehicle (BEV),250,75000,125
+3MW5P9J05N,Arapahoe,Englewood,CO,80111,2022,BMW,330E,Plug-in Hybrid Electric Vehicle (PHEV),22,45500,125
+LPSED3KA1M,Boulder,Longmont,CO,80501,2021,POLESTAR,PS2,Battery Electric Vehicle (BEV),270,55000,125
+5YJYGDEF3L,Platte,Platte City,MO,64079,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,285
+WAUUPBFF9H,Ray,Rayville,MO,64084,2017,AUDI,A3,Plug-in Hybrid Electric Vehicle (PHEV),16,39850,285
+5YJ3E1EB4L,St. Louis,Saint Louis,MO,63137,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,285
+1G1FZ6S02N,Snohomish,Everett,WA,98203,2022,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,335
+5YJ3E1EB7J,Pierce,Puyallup,WA,98374,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,335
+5YJXCAE27K,Pierce,Bonney Lake,WA,98391,2019,TESLA,MODEL X,Battery Electric Vehicle (BEV),237,85200,335
+5YJ3E1EB3J,King,Redmond,WA,98052,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,335
+5YJ3E1EC3M,Pierce,Bonney Lake,WA,98391,2021,TESLA,MODEL 3,Battery Electric Vehicle (BEV),272,43500,335
+7SAYGDEE1N,Clark,Vancouver,WA,98661,2022,TESLA,MODEL Y,Battery Electric Vehicle (BEV),303,54990,335
+1G1FX6S05H,King,Kenmore,WA,98028,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,335
+1G1FW6S04H,Thurston,Olympia,WA,98501,2017,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),259,36500,335
+5YJ3E1EB0J,Pierce,Edgewood,WA,98372,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),220,35500,335
