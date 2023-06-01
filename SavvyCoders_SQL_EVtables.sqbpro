@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/habum/Code/SavvyCoders/Activities/SavvyCoders_SQL_EVtables.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="75"/><column_width id="3" width="1588"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,10:mainEVCharging"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="DAP APRIL 2023 DAY 27">-- OPERATORS for conditions in the where clause: AND, OR, Not, Like
+-- WHERE Make like '%'
+-- WHERE VIN like '1N4AZ%'
+-- WHERE VIN like '%GDEE%';
+
+-- order of operation
+-- FROM
+-- WHERE
+-- GROUP BY
+-- HAVING
+-- SELECT
+-- ORDER BY
+
+
+-- SELECT ModelYear, Make,Model, ElectricVehicleType, ElectricRange
+-- FROM EVRegistry
+-- WHERE Make = 'TESLA'
+-- ORDER BY Make, ModelYear ASC
+-- LIMIT 10;
+
+-- 
+-- SELECT COUNT(DISTINCT userId) as 'numUser'
+-- FROM EVCharging;
+-- 
+-- SELECT *
+-- FROM EVCharging
+
+
+-- SELECT userId, COUNT(DISTINCT stationId) AS 'numstations'
+-- FROM EVCharging
+-- GROUP BY userId
+-- ORDER BY 2 DESC
+-- LIMIT 10;
+
+
+SELECT userId, MIN(chargeTimeHrs) as 'minhours', max(chargeTimeHrs) as 'maxhours'
+FROM EVCharging
+GROUP BY userId
+
+-- SELECT userId, MIN(chargeTimeHrs) as 'minhours', max(chargeTimeHrs) as 'maxhours', count(userId) as 'charge'
+-- FROM EVCharging
+-- WHERE chargeTimeHrs &gt; 1
+-- Group By userId
+-- 
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
