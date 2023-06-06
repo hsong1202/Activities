@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/habum/Code/SavvyCoders/Activities/SQL/SavvyCoders_SQL_2_chargeCar.db" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="pragmas query structure" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="75"/><column_width id="3" width="1664"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">-- Find out the number of charges by facility (dimfactility) and model of car(dimuser)
+-- Return typeFacility, carmake and numstation
+-- Order the result set by type of facility and highest to lowest number of charges
+
+-- SELECT df.typeFacility, du.carMake, Count(*) as 'numCharges'
+-- FROM factCharge a
+-- INNER JOIN dimFacility df ON a.facilityID = df.FacilityKey
+-- INNER JOIN dimUser du ON a.userId = du.userId
+-- GROUP BY df.typeFacility, du.carMake
+-- ORDER BY 1,3 DESC
+
+
+--  Find out which cars each distinct user has
+--  we know that not all cars are listed in the car table but we still want to include all userids in the result SET
+--  order the result set by car make in a-z order
+-- 
+-- Select* 
+-- FROM dimcar
+-- LIMit 25;
+
+-- SELECT DISTINCT du.userID as 'leftable.userid', dc.carMake, dc.carModel
+-- FROM dimUser du
+-- LEFT JOIN dimcar dc ON du.carID = dc.carID
+-- Order by 2
+
+-- SELECT *
+-- FROM factCharge fc
+-- INNER JOIN dimFacility df
+-- ON fc.facilityID = df.FacilityKey
+-- ORDER BY df.typeFacility ASC
+-- 
+-- 
+-- SELECT du.userId, carMake, carModel, priceEuro*1.09 as 'priceUSD'
+-- FROM factCharge fc
+-- INNER JOIN dimUser du
+-- ON fc.userId = du.userId
+-- LEFT JOIN dimCar dc
+-- ON du.carid = dc.carID
+
+-- SELECT Substr(dayofweek, 1,3) as 'newstring'
+-- from dimDay;
+-- 
+-- SELECT dayofweek from dimDay
+-- 
+-- SELECT appPlatform, TRIM(appPlatform, 'i')
+-- FROM dimUser
+-- WHERE appPlatform = 'ios'
+
+-- SELECT ltrim('!!!!!SavvyCoders','!') as 'ltrim',
+-- rtrim('SavvyCoders,!!!!!', '!') as 'rtrim'
+
+
+-- SELECT typeFacility, length(typeFacility) as lenfacility
+-- from dimFacility
+-- 
+-- SELECT replace('I miss my dog', 'dog','cat') as newstring;
+-- 
+-- SELECT lower('SQL ROCKS') as lowerstring,
+-- Upper('sql rocks') as upperstring
+-- 
+
+-- SELECT dayabbr, dayAbbr || 'day'
+-- FROM dimDay
+-- where dayabbr ='Mon'
+-- 
+-- SELECT *
+-- FROM dimUser
+-- where appPlatform = 'ios';
+-- 
+
+-- update/set
+
+-- UPDATE dimUser
+-- SET appPlatform = 'Apple'
+-- WHERE appPlatform = 'ios';
+-- 
+ 
+-- SELECT DISTINCT appPlatform
+-- FROM dimUser
+-- 
+
+
+-- SELECT COUNT(*)
+-- FROM dimUser
+-- WHERE distanceHome IS NULL;
+-- 
+
+-- update exe4rcise
+
+-- Update dimUser
+-- Set distanceHome = 0
+-- where distancehome IS null;
+-- 
+
+-- Alter
+
+-- Alter table dimUser
+-- ADD annualIncome INTEGER;
+-- 
+
+-- drop
+
+-- Alter table dimUser
+-- DROP annualIncome;
+-- 
+-- SELECT*
+-- FROM dimUser;
+-- 
+-- 
+-- alter table dimUser	
+-- RENAME distanceHome to distanceWork;
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
