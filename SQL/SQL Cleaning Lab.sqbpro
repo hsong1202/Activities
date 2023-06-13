@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/habum/Code/SavvyCoders/Activities/SQL/SQL Cleaning Lab.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="pragmas query structure" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="75"/><column_width id="3" width="1286"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:mainevCars"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">-- SELECT Accel 
+-- FROM evCars;
+
+-- SELECT RTRIM(Accel,'sec')
+-- FROM evCars;
+
+-- SELECT Accel, RTRIM(Accel, 'sec')
+-- FROM evCars
+
+-- UPDATE evCars
+-- SET Accel = RTRIM(Accel,'sec')
+
+-- SELECT Accel 
+-- FROM evCars;
+
+-- ALTER TABLE evCars
+-- RENAME Accel TO accelSec
+
+-- SELECT accelSec
+-- FROM evCars
+
+-- SELECT TopSpeed
+-- FROM evCars
+
+-- SELECT RTRIM(TopSpeed, 'km/h')
+-- FROM evCars
+
+-- SELECT TopSpeed, RTRIM(TopSpeed, 'km/h')
+-- FROM evCars
+
+-- Update evCars
+-- SET TopSpeed = RTRIM(TopSpeed, 'km/h')
+
+-- SELECT TopSpeed
+-- FROM evCars
+
+-- SELECT TopSpeed, ROUND(TopSpeed * 0.621371, 1) AS TopspeedMPH
+-- FROM evCars
+
+-- UPDATE evCars
+-- SET TopSpeed = TopSpeed *0.621371
+
+-- UPDATE evCars
+-- SET topSpeedMPH = ROUND(topSpeedMPH, 1)
+
+-- ALTER TABLE evCars
+-- RENAME TopSpeed TO topSpeedMPH
+
+-- SELECT*
+-- FROM evCars
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
